@@ -95,7 +95,7 @@ text-justify
 max-w-2xl
 m-auto
 prose-headings:my-5
-prose-heading:text-2xl
+prose-headings:text-2xl
 prose-p:mb-5
 prose-p:leading-7
 prose-li:list-disc
